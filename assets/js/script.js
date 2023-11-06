@@ -9,5 +9,11 @@ window.addEventListener("scroll", (e) => {
   scrollPos > 10 ? Header.classList.add("scrolled") : Header.classList.remove("scrolled");
 });
 
+const wage = document.getElementById('countzipcode');
+wage.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      document.getElementById('getintouch').scrollIntoView();
+    }
+});
 
 // header js end
