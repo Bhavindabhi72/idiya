@@ -298,7 +298,7 @@
                       <path d="M19.4037 4.09256C17.4037 2.09254 14.8732 0.829616 12.0797 0.439941L11.8356 2.18174C14.2487 2.51977 16.4366 3.61368 18.1643 5.3367C19.8028 6.97521 20.8779 9.04565 21.2676 11.3227L23 11.0269C22.5446 8.38837 21.3004 5.99398 19.4037 4.09256Z" fill="currentColor" />
                     </svg>
                   </div>
-                  <a href="javascript:void(0)" class="d-flex transition-03">+1 12345 67890</a>
+                  <a href="javascript:void(0)" class="d-flex transition-03">+1 469-268-0516</a>
                 </li>
                 <li class="d-flex align-items-center transition-03">
                   <div class="social-round-icon flex-0-auto d-flex align-items-center justify-content-center transition-03 text-white">
