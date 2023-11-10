@@ -288,7 +288,7 @@
                       <path d="M6.58646 9.9889L0.403897 16.3532C0.154564 15.8933 0 15.3707 0 14.8074V4.54442L6.58646 9.9889ZM10.1448 10.6962C10.6435 11.0968 11.3565 11.0968 11.8642 10.688L21.7518 2.51436C21.7981 2.47719 21.8511 2.46093 21.9018 2.43538C21.569 1.04058 20.3528 0 18.8974 0H3.10256C1.64718 0 0.430974 1.04058 0.0981537 2.43538C0.147795 2.46209 0.201949 2.47719 0.248205 2.51436L10.1448 10.6962ZM12.9146 12.055C12.3471 12.5091 11.6702 12.7355 10.9966 12.7355C10.3231 12.7355 9.65518 12.5114 9.09446 12.0619L7.91323 11.0852L1.59979 17.5842C2.04656 17.8409 2.55426 18 3.10144 18H18.8963C19.4435 18 19.9512 17.8409 20.3979 17.5842L14.0856 11.0864L12.9146 12.055ZM15.4135 9.9889L21.5961 16.3532C21.8454 15.8933 22 15.3707 22 14.8074V4.54442L15.4135 9.9889Z" fill="currentColor" />
                     </svg>
                   </div>
-                  <a href="javascript:void(0)" class="d-flex transition-03">idiyatest@gmail.com</a>
+                  <a href="javascript:void(0)" class="d-flex transition-03">hello@idealighting.com</a>
                 </li>
                 <li class="d-flex align-items-center transition-03">
                   <div class="social-round-icon flex-0-auto d-flex align-items-center justify-content-center transition-03 text-white">
@@ -375,7 +375,7 @@
               <h6 class="fw-normal text-white text-theme">Contact us</h6>
               <div class="footer-links">
                 <a href="#" class="link-hover-light-white">
-                  +1 12345 67890
+                  +1 469-268-0516
                 </a>
                 <a href="#" class="link-hover-light-white address-link">
                   20 W Spring Creek Parkway, Ste 400FF, Plano, TX 750230
